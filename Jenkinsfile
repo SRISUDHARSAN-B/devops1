@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE_NAME = "srisudharsan1b/testops" // Replace with your Docker Hub username and image name
         TAG = "latest"
-        CONTAINER_NAME = "my-container"
+        CONTAINER_NAME = "my-container1"
         PORT = "3001"
     }
 
